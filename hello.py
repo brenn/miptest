@@ -4,3 +4,7 @@ def greet(name):
 
 def scream(name):
     return "HELLO, " + name + "!"
+
+def whisper(name):
+    return "hello, " + name + "!"
+
