@@ -1,10 +1,9 @@
 {
   "urls": [
-    ["app/__init__.py", "github:brenn/miptest/__init__.py"],
-    ["app/hello.py", "github:brenn/miptest/hello.py"]
+    ["__init__.py", "github:brenn/miptest/__init__.py"],
+    ["hello.py", "github:brenn/miptest/hello.py"]
   ],
   "deps": [
-    ["os-path", "latest"]
   ],
   "version": "0.1"
 }
