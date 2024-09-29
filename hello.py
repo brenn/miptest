@@ -8,3 +8,5 @@ def scream(name):
 def whisper(name):
     return "hello, " + name + "!"
 
+def roam(name):
+    return "Yallabais, " + name + "!"
